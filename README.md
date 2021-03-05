@@ -3,9 +3,10 @@
 
 # Glozzom
 
+This is project built with a great usage of boostrap and it's powerful features
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://shaher-11.github.io/Glozzom/)
 
 
 ## Authors
